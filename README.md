@@ -1,1 +1,1 @@
-I gueess I know the basics of git and html and will make a recipe site now
+I gueess I know the basics of git and html and will make a recipe site now smileyface
